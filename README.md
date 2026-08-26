@@ -146,7 +146,7 @@ Optional arguments:
 - `--output <path>` — override the output CSV path
 - `--metrics <path>` — override the metrics JSON path
 
-### Citation
+## Citation
 
 Please cite the following article if you find CCSite helpful:
 
