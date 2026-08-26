@@ -145,3 +145,9 @@ Optional arguments:
 - `--config <path>` — path to config file (default: `config.yaml`)
 - `--output <path>` — override the output CSV path
 - `--metrics <path>` — override the metrics JSON path
+
+### Citation
+
+Please cite the following article if you find CCSite helpful:
+
+Ren, Y.; Mou, M.; Zhu, Y.; Pan, Z.; Zhang, K.; Qian, Y.; Zhang, Y.; Li, J.; Fu, T.; Zhu, F. Accurate Identification of Covalently Ligandable Cysteines Using CCSite. *J. Med. Chem.* **2026**. https://doi.org/10.1021/acs.jmedchem.6c01911
